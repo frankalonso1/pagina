@@ -1,0 +1,25 @@
+table {
+
+    border: groove solid 4px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+  
+
+}
+
+table td {
+
+    border-collapse: separate;
+    padding: 10px 20px 10px 20px;
+}
+
+table tbody {
+
+    text-align: left;
+}
+
+table thead {
+    background: lightgreen;
+    color: lime;
+}
