@@ -3,11 +3,24 @@
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    background-color: red;
+    background-color: whitesmoke;
     height: 650px;
+    border-color: black;
     
 }
 .cont1{
    
     width: 50%;
+    border-color: black;
+
+}
+
+.cont1 h3{
+
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.canales{
+    margin-left: 50px;
+    margin-top: 45px;
 }
