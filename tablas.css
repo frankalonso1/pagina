@@ -20,6 +20,6 @@ table tbody {
 }
 
 table thead {
-    background: lightgreen;
+    background: rgb(164, 175, 232);
     color: lime;
 }
