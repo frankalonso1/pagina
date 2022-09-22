@@ -1,0 +1,13 @@
+#contacto{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: red;
+    height: 650px;
+    
+}
+.cont1{
+   
+    width: 50%;
+}

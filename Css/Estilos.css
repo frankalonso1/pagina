@@ -126,3 +126,7 @@ p{
   .confondo {
     background-color: #def;
   }
+
+div {
+    background-color: red;
+}
